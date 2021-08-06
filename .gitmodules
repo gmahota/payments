@@ -1,0 +1,6 @@
+[submodule "nodejs-payment-api"]
+	path = nodejs-payment-api
+	url = https://github.com/gmahota/nodejs-payment-api.git
+[submodule "nextjs-payments-web"]
+	path = nextjs-payments-web
+	url = https://github.com/gmahota/nextjs-payments-web.git
